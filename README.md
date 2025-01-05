@@ -68,3 +68,52 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/asifjaved-dev/Nextjs.git
    cd Nextjs
+
+2. **Install dependencies**:
+    ```bash
+       npm install
+
+3. **Start the Development Server**:  
+   ```bash
+       npm run dev
+   ```
+    
+5. **Access the Application**:  
+  Open your browser and navigate to:
+  - [http://localhost:3000](http://localhost:3000)
+---
+
+## 🌟 Future Enhancements
+   - Add user authentication with JWT or OAuth.
+   - Integrate with a database for dynamic content.
+   - Implement dark mode for enhanced user experience.
+
+---
+
+## 📚 Learn More
+   - [React.js Documentation](https://legacy.reactjs.org/docs/getting-started.html)
+   - [Next.js Documentation](https://nextjs.org/docs)
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! Please follow these steps:
+- Fork the repository
+- Create a feature branch: git checkout -b feature-name  
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Open a pull request.
+
+---
+
+## 📧 Contact
+   **Author**: Asif Javed
+   - [GitHub](https://github.com/asifjaved-dev)
+   - [Portfolio](http://asifjaved.work/)
+   - [LinkedIn](https://www.linkedin.com/in/asifjaved-dev/)
+
+---
+
+## ⭐ If you found this project helpful, please give it a star! ⭐
+
+---
